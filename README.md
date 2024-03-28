@@ -17,6 +17,7 @@ JSON не используя встроенную функцию.
 определенного контейнера в формате JSON не используя встроенную функцию.
 
 Результаты выполнения запросов: 
+
 ![image](https://github.com/d0natel10/sql-test-task/assets/135552346/54088438-4a75-453c-b5c7-b0f22dfe70d5)
 
 ![image](https://github.com/d0natel10/sql-test-task/assets/135552346/d6469c4d-d2e9-4db6-9ecc-2ab53ed81e28) - для 3-ого контейнера*
